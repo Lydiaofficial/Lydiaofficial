@@ -13,12 +13,12 @@ I am always looking to collaborate with like-minded individuals and contribute t
 So, feel free to explore my Github profile and connect with me. Let's create something awesome together!
 Here are some ideas to get you started:
 
-## 📫 How to reach me:
+#### 📫 How to reach me:
 Email: lydiaamadichinyere@gmail.com
 Twitter: https://twitter.com/ledeear
 
-## 😄 Pronouns:
+#### 😄 Pronouns:
 She/her
 
-## ⚡ Fun fact:
+#### ⚡ Fun fact:
 I probably take the best sunset photographs.
