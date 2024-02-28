@@ -2,16 +2,13 @@
 
 Welcome to my Github profile!
 
-My name is **Lydia** and I am a product designer with keen interest in creating easy to use digital products. Currently, I am exploring the world of frontend development, enjoying every bit of the learning journey and contributing my design skills to open source project [OpenRefine.](https://openrefine.org/) , where I was an [Outreachy](https://www.outreachy.org/) intern in the May - August, 2023 cohort and worked on improving workflows for design contributions and collaboration.
+As a User Experience Designer, I enjoy creating user interfaces that solve user problems and enhance user satisfaction. I have applied my skills and knowledge to various projects and platforms, such as OpenRefine, an open source tool for data cleaning and transformation, and EmmsDan Industries, a leading provider of software solutions for businesses. 
 
-I also enjoy sharing my tech journey and insights with others, and I do so through my blog, [Lydia and Colors.](https://lydiaandcolors.substack.com/)
+At EmmsDan Industries, I worked as a Product Designer for over a year, where I spearheaded the design and development of Kirgawa, optimizing the workflow and user experience for clients and users. 
 
-My Github account showcases a mix of design and code-related projects that I have worked on. From creating wireframes and prototypes to writing HTML, CSS, and JavaScript, I enjoy every aspect of the design and development process.
+I also have a passion for blogging and technical writing, and I have managed blogs on Substack, using Markdown to create engaging and informative content. Additionally, I contribute to open source via OpenRefine. 
 
-I am availoable for a job and always looking to collaborate with like-minded individuals and contribute to open-source projects. I believe in the power of community-driven initiatives and the positive impact they can have on the industry.
-
-So, feel free to explore my Github profile and connect with me. Let's create something awesome together!
-Here are some ideas to get you started:
+Finally, I am enrolled in Scrimba 's Frontend Career Path program where I have been taking courses on frontend development and striving to transition to UI engineering
 
 #### 📫 How to reach me:
 Email: lydiaamadichinyere@gmail.com
